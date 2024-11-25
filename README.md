@@ -1,4 +1,6 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=churchill&font=default&quoteType=random)
+<div align="center">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=churchill&font=default&quoteType=random" />
+</div>
 
 ## Hello World 👋
 
@@ -21,7 +23,7 @@
 ![SignalR](https://custom-icon-badges.demolab.com/badge/SignalR-00103D.svg?style=for-the-badge&logo=signalr2&logoColor=00ABEC)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-3499CD.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3670A0?style=for-the-badge&logo=tkinter&logoColor=white)
+![Tkinter](https://custom-icon-badges.demolab.com/badge/Tkinter-3670A0?style=for-the-badge&logo=quill2&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7431FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?style=for-the-badge&logo=java4&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,7 +32,7 @@
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-1E3A8A.svg?style=for-the-badge&logo=database&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-293137.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-413932.svg?style=for-the-badge&logo=git&logoColor=F05032)
