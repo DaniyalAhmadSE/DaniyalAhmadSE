@@ -41,21 +41,24 @@
 ![Mermaid](https://img.shields.io/badge/Mermaid-181316.svg?style=for-the-badge&logo=mermaid&logoColor=FF3670)
 
 ## Stats
+
 <table>
 <tr>
-<td valign="top" width="30%">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaniyalAhmadSE&show_icons=true&include_all_commits=true&&count_private=true&hide_border=true" align="left" />
-</td>
-<td valign="top" width="30%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalAhmadSE&hide_border=true" align="left" />
-</td>
-<td valign="top" width="30%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalAhmadSE&hide_border=true&layout=compact" align="left" />
-</td>
+    <td valign="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=DaniyalAhmadSE&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&hide=prs" />
+    </td>
+    <td valign="top">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DaniyalAhmadSE&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=100px&currStreakLabel=2F80ED&ring=2f80ed&fire=2f80ed" alt="GitHub Streak" />
+    </td>
+    <td valign="top">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalAhmadSE&hide_border=true&hide_progress=true&langs_count=8"/>
+    </td>
 </tr>
 </table>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=DaniyalAhmadSE&&style=for-the-badge&abbreviated=true)
+##
+
+<img src="https://komarev.com/ghpvc/?username=DaniyalAhmadSE&&style=for-the-badge&abbreviated=true" />
 
 ##
 
