@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-1E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DaniyalAhmadSE)
 [![GitHub](https://img.shields.io/badge/github-24292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniyalAhmadSE)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-3B4045.svg?&style=for-the-badge&logo=stackoverflow&logoColor=#F58025)](https://stackoverflow.com/users/11696303)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0E141E.svg?&style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://linkedin.com/in/DaniyalAhmadSE)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0E141E.svg?&style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/DaniyalAhmadSE)
 
 ## Skills
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -60,7 +60,7 @@
 
 ##
 
-<img src="https://komarev.com/ghpvc/?username=DaniyalAhmadSE&&style=for-the-badge&abbreviated=true" />
+![Profile Views](https://komarev.com/ghpvc/?username=DaniyalAhmadSE&&style=for-the-badge&abbreviated=true)
 
 ##
 
