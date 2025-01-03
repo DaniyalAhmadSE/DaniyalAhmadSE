@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=churchill&font=default&quotesUrl=https://github.com/DaniyalAhmadSE/DaniyalAhmadSE/blob/main/quotes.json" />
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=churchill&font=default&quotesUrl=https://github.com/DaniyalAhmadSE/DaniyalAhmadSE/blob/main/favorite-quotes.json" />
 </div>
 
 ## Hello World 👋
