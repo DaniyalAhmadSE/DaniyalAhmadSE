@@ -4,7 +4,7 @@
 
 ## Hello World 👋
 
-⚡ Fun fact: I use light theme.
+⚡ Fun fact: I use light mode.
 
 📫 Connect with me (Not emotionally):
 
