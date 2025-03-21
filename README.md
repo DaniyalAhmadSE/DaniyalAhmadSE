@@ -44,19 +44,21 @@
 
 ## Stats
 
-<table>
-<tr>
-    <td valign="top">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaniyalAhmadSE&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&hide=prs&theme=transparent" />
-    </td>
-    <!-- <td valign="top">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DaniyalAhmadSe&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=100px&currStreakLabel=2F80ED&ring=2f80ed&fire=2f80ed&theme=transparent" alt="GitHub Streak" />
-    </td> -->
-    <td valign="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalAhmadSE&hide_border=true&hide_progress=true&langs_count=8&theme=transparent"/>
-    </td>
-</tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+        <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=DaniyalAhmadSE&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&hide=prs&theme=transparent" />
+        </td>
+        <!-- <td valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=DaniyalAhmadSe&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=100px&currStreakLabel=2F80ED&ring=2f80ed&fire=2f80ed&theme=transparent" alt="GitHub Streak" />
+        </td> -->
+        <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalAhmadSE&hide_border=true&hide_progress=true&langs_count=8&theme=transparent"/>
+        </td>
+    </tr>
+  </table>
+</div>
 
 ##
 
